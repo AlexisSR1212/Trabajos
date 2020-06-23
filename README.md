@@ -8,8 +8,5 @@ Objetivo General
 
 Aplicar un sistema operativo relacionado con el control y registro en el acceso de estudiantes y docentes a la institución: Usando y valorando herramientas de gestión, análisis de datos de una forma valorativa y colaborativa.
 
-Objetivos específicos
-----------------------
-1.Conocer información relacionada con proyectos de nuestra misma índole.
-2.Identificar y definir cuales son los implementos necesarios para el desarrollo de este proyecto.
+
 
