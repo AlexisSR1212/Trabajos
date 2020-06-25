@@ -1,4 +1,5 @@
-# Plus Handles
+![Plus Hnaldes](https://user-images.githubusercontent.com/67074588/85798489-2f071680-b703-11ea-98dc-9cf12b85c6a6.PNG)
+# Plus Handles                                            
 ==================
 
 Crearemos una manilla que nos facilite el registro de acceso en la entrada y salida de las instituciones, la razón por la que queremos crear este proyecto es por que hemos notado la falta de seguridad, a la hora de que cualquier persona con un uniforme o una bata puede ingresar a una institución.
